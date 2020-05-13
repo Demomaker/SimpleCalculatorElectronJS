@@ -1,4 +1,4 @@
-# SimpleCalculator2
+# SimpleCalculator
 Simple Calculator made with ElectronJS for multiple platforms such as Windows, macOS and Linux
 
 If you want a calculator that is as simple as possible, this is it!
