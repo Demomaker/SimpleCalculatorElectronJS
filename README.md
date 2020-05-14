@@ -5,9 +5,9 @@ If you want a calculator that is as simple as possible, this is it!
 
 You can multiply, divide, add and subtract.
 
-You can also clear the current value being entered with CE.
+You can also clear the current value being entered with C.
 
-You can clear a whole calculation using C.
+You can clear a whole calculation using CE.
 
 The current value you entered will be shown in the result window.
 
