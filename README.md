@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # SimpleCalculator
 Simple Calculator made with ElectronJS for multiple platforms such as Windows, macOS and Linux
 
