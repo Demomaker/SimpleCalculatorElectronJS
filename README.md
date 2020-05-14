@@ -1,5 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # SimpleCalculator
+![image](https://user-images.githubusercontent.com/18319764/81883083-51cdd900-9562-11ea-965f-527f0b2ab06c.png)
+
 Simple Calculator made with ElectronJS for multiple platforms such as Windows, macOS and Linux
 
 If you want a calculator that is as simple as possible, this is it!
