@@ -18,4 +18,4 @@ The answer will also be shown in the result window.
 
 You can have decimal numbers and change number signs.
 
-[Try it out here](https://demomaker.github.io/SimpleCalculator2/)
+[Try it out here](https://demomaker.github.io/SimpleCalculatorElectronJS/)
